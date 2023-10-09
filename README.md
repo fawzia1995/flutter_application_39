@@ -5,7 +5,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+thisn is ecommerce app which help us to choice brands from the store
 
 A few resources to get you started if this is your first Flutter project:
 
