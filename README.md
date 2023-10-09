@@ -1,7 +1,7 @@
 # flutter_application_39
 
 A new Flutter project.
-![bla bla](brandTest.png)
+![bla bla](assets/brandTest.png)
 
 ## Getting Started
 
