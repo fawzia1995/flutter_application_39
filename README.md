@@ -2,10 +2,11 @@
 
 A new Flutter project.
 ![bla bla](assets/brandTest.png)
+thisn is ecommerce app which help us to choice brands from the store
 
 ## Getting Started
 
-thisn is ecommerce app which help us to choice brands from the store
+
 
 A few resources to get you started if this is your first Flutter project:
 
